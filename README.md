@@ -84,6 +84,16 @@ You have to raise an issue for everychange that you want in the application.
 You will be assigned if the issue or recomendation found legit and worth adding. 
 
 
+## FAQ
+
+#### Why We have to solve the capctcha can't this be automated as well 
+
+Yes it can be but for that we have to use services like noceptcha or 2captcha, Stay alert may be this feature is coming soon..
+
+
+
+
+
 ## Thank You
 
 Thank You very much for reading this till the end..
