@@ -73,6 +73,7 @@ Here is the format
 ## Screenshots
 
 ![App Screenshot](./data.png)
+![App Screenshot](./data2.png)
 
 
 ## Contributing
